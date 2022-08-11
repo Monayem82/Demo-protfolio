@@ -62,6 +62,7 @@ h1{
     padding: 2%;
     margin-left: 33px;
     box-shadow: 16px 16px 10px gray;
+    margin-bottom: 2%;
 }
 .section-3{
 
@@ -72,4 +73,22 @@ h2{
 .show{
     padding: 2%;
     box-shadow: 10px 10px 10px 10px rgb(235, 152, 152);
+}
+.half-4{
+    width: 30%;
+    margin: auto;
+    margin-left: 6%;
+    box-shadow: 16px 16px 10px rgb(201, 184, 184);
+}
+.half-4 h1{
+    margin: 0;
+    padding-bottom: 0;
+}
+.fooder-type{
+    text-align: center;
+    height: 150px;
+    background-color: rgb(146, 57, 219);
+}
+.fooder-type p{
+    color: wheat;
 }
